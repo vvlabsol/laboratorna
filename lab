@@ -1,1 +1,12 @@
+#include <iostream>
+#include <iomanip>
+using namespace std;
+int main()
 
+{
+int a, b;
+cout<<"Enter a, b: \n";
+cin>>a>>b;
+cout<<"Is it true that A<=0, or B<-2???\t";
+((a>=0)||(b<-2))? cout<<"Yes": cout<<"No";
+}
