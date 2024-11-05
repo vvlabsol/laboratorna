@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
-int main()/t
+int main()/t /t
 
 {
 int a, b;
